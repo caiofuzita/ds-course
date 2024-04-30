@@ -1,0 +1,15 @@
+# Python primeiros passos
+- Variáveis
+    - Tipos de variáveis
+- Input
+- Estruturas condicionais
+    - if else
+    - elif
+    - Operadores lógicos
+    - Tabela verdaed
+- Estruturas de repetição
+    - While
+    - For
+- Estrutura de dados
+    - Listas
+    - Dicionários
