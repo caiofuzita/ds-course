@@ -1,4 +1,4 @@
-# Python primeiros passos
+# Python funções, estruturas de dados e exceções
 - Bibliotecas
 - Funções
     - Built-in function

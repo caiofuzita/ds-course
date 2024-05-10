@@ -1,4 +1,4 @@
-# Python funções, estruturas de dados e exceções
+# Python primeiros passos
 - Variáveis
     - Tipos de variáveis
 - Input
