@@ -1,15 +1,17 @@
-# Python funções, estruturas de dados e exceções
-- Variáveis
-    - Tipos de variáveis
-- Input
-- Estruturas condicionais
-    - if else
-    - elif
-    - Operadores lógicos
-    - Tabela verdaed
-- Estruturas de repetição
-    - While
-    - For
+# Python primeiros passos
+- Bibliotecas
+- Funções
+    - Built-in function
+    - Criando funções
+    - Funções com retorno
+    - Funções lambda
 - Estrutura de dados
-    - Listas
-    - Dicionários
+    - Lista de listas
+    - Lista de tuplas
+    - List comprehension
+    - List comprehension com if-lse
+    - Dict comprehension
+- Lidando com exceções
+    - Tratando exceções
+    - Cláusula finally
+    - Raise
